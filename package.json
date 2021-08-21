@@ -37,5 +37,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maria-namira/validat.git"
   }
 }
